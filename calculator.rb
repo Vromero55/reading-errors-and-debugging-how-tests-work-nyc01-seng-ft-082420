@@ -1,1 +1,1 @@
-first_number="Hello World!";# Add your variables here
+first_number=5.25;# Add your variables here
